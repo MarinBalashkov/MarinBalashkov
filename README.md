@@ -1,7 +1,7 @@
 ## Hi there, I'm Marin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 
-## Technology Stack
+## Some Tools I Use
 <div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
@@ -16,6 +16,17 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </div>
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+
+</ul>
+<li>🌱 I’m currently learning to live myself out the max</li>
+<li>🥅 2022 Goals: Contributing to Open Source projects</li>
+<li>💻 I love building cool stuffs</li>
+<li>💬 Ask me about anything! I am happy to help</li>
+<li>📫 Reach me: dockera2@gmail.com</li>
 
 <br /><br /><br />
 📈 My GitHub Stats
